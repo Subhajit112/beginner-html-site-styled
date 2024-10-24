@@ -17,5 +17,5 @@ spec:
       containers:
         - name: mycontainer
           image: subhajit000/demojob:latest
-          port:
+          ports:
             - containerPort: 80
